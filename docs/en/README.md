@@ -14,9 +14,9 @@ Acoustic-inspired and electric keyboards, 808 and synthetic basses, guitars and 
 
 <table>
 <tr>
-<td align="center" width="33%"><a href="../PIANO.md"><img src="../../media/artwork/piano.jpg" width="280" alt="UWdeVST Piano — Keys into ideas." /><br /><strong>Piano</strong></a><br />8 keyboards<br />Acoustic · Prepared · Electric<br /><a href="../PIANO.md">Explore</a> · <a href="https://github.com/unicornwhodev/uwdevst-piano-bass-guitar/releases/tag/piano-v1.0.2">Download</a></td>
-<td align="center" width="33%"><a href="../BASS.md"><img src="../../media/artwork/bass.jpg" width="280" alt="UWdeVST Bass — Everything starts down low." /><br /><strong>Bass</strong></a><br />9 models<br />Acoustic · 808 · Synth<br /><a href="../BASS.md">Explore</a> · <a href="https://github.com/unicornwhodev/uwdevst-piano-bass-guitar/releases/tag/bass-v1.0.2">Download</a></td>
-<td align="center" width="33%"><a href="../GUITAR.md"><img src="../../media/artwork/guitar.jpg" width="280" alt="UWdeVST Guitar — Strings, another way." /><br /><strong>Guitar</strong></a><br />9 models<br />Acoustic · Electric · Electronic<br /><a href="../GUITAR.md">Explore</a> · <a href="https://github.com/unicornwhodev/uwdevst-piano-bass-guitar/releases/tag/guitar-v1.0.2">Download</a></td>
+<td align="center" valign="top" width="33%"><a href="../PIANO.md"><img src="../../media/artwork/piano.jpg" width="280" alt="UWdeVST Piano — Keys into ideas." /><br /><strong>Piano</strong></a><br />8 keyboards<br />Acoustic · Prepared · Electric<br /><a href="../PIANO.md">Explore</a> · <a href="https://github.com/unicornwhodev/uwdevst-piano-bass-guitar/releases/tag/piano-v1.0.2">Download</a></td>
+<td align="center" valign="top" width="33%"><a href="../BASS.md"><img src="../../media/artwork/bass.jpg" width="280" alt="UWdeVST Bass — Everything starts down low." /><br /><strong>Bass</strong></a><br />9 models<br />Acoustic · 808 · Synth<br /><a href="../BASS.md">Explore</a> · <a href="https://github.com/unicornwhodev/uwdevst-piano-bass-guitar/releases/tag/bass-v1.0.2">Download</a></td>
+<td align="center" valign="top" width="33%"><a href="../GUITAR.md"><img src="../../media/artwork/guitar.jpg" width="280" alt="UWdeVST Guitar — Strings, another way." /><br /><strong>Guitar</strong></a><br />9 models<br />Acoustic · Electric · Electronic<br /><a href="../GUITAR.md">Explore</a> · <a href="https://github.com/unicornwhodev/uwdevst-piano-bass-guitar/releases/tag/guitar-v1.0.2">Download</a></td>
 </tr>
 </table>
 
