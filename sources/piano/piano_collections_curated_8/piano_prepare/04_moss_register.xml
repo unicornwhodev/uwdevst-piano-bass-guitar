@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PianoFactoryPreset name="Moss Register" format_version="5" synth_index="2" instrument_index="4" piano_index="4" preset_index="3" level="0.7" tune="0" hammer_hardness="0.62" attack="0.004" decay="0.51" sustain="0.18" release="0.33" tone_brightness="0.63" string_resonance="0.24" soundboard_amount="0.45" damping="0.6" model_character="0.75" low_pass_hz="6600" pan="0" output="0" macro_warmth="0.5" macro_brillance="0.5" macro_expression="0.5" macro_resonance="0.5" lfo_rate="1" lfo_depth="0" lfo_wave="0" lfo_destination="0" pitch_bend_range="2" velocity_curve="3" mono_mode="0" tremolo_sync="0" mod_wheel_target="1" intent="obtenir un prepare poetique et tonique plutot qu'un simple effet special; laisser vivre les partiels et les pedales sans devenir une simple nappe floue." tags="prepared,extended,objects,vintage,prepare-feutre,grave-large,ample,ouvert,warm,mix-ready" family="vintage" mix_role="warm" fx_tab7_en="1" fx_reverb_en="1" reverb_type="0" fx_tab0_en="0" fx_tab1_en="0" fx_tab2_en="0" fx_tab3_en="0" fx_tab4_en="0" fx_tab5_en="0" fx_tab6_en="0" sat_drive="1.8" sat_mix="0.15" transient_attack="0.1" transient_sustain="0" transient_mix="0.4" comp_threshold="-19" comp_ratio="3" comp_attack="10" comp_release="120" comp_makeup="0" comp_mix="1" eq_low_freq="200" eq_low_gain="0" eq_mid_freq="1000" eq_mid_gain="0" eq_mid_q="1" eq_high_freq="5000" eq_high_gain="0" chorus_rate="1" chorus_depth="0.5" chorus_mix="0" delay_time="300" delay_feedback="0.3" delay_mix="0" delay_sync="0" delay_division="1" delay_note_div="1" reverb_size="0.6" reverb_damping="0.36" reverb_width="0.74" reverb_mix="0.18" reverb_predelay="20" limiter_threshold="-0.3" limiter_release="50">
+  <ModMatrix pbRange="2" lfo2Rate="2" lfo2Wave="0">
+    <Slot idx="0" src="0" dst="0" amt="0" />
+    <Slot idx="1" src="0" dst="0" amt="0" />
+    <Slot idx="2" src="0" dst="0" amt="0" />
+    <Slot idx="3" src="0" dst="0" amt="0" />
+    <Slot idx="4" src="0" dst="0" amt="0" />
+    <Slot idx="5" src="0" dst="0" amt="0" />
+    <Slot idx="6" src="0" dst="0" amt="0" />
+    <Slot idx="7" src="0" dst="0" amt="0" />
+  </ModMatrix>
+</PianoFactoryPreset>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<GuitarPreset name="E-Guitar Pad 01 Bright" format_version="3" synth_index="6" instrIndex="7" instrument_index="7" level="0.3600000143051147" tune="0.0" string_brightness="0.3600000143051147" attack="0.04500000178813934" decay="4.800000190734863" sustain="0.4399999976158142" release="1.049999952316284" body_amount="0.1599999964237213" drive="0.02999999932944775" attack_brightness="0.2199999988079071" stereo_width="0.5799999833106995" pick_position="0.4000000059604645" low_pass_hz="5000.0" pan="0.0" output="2" quality_mode="0.0" delay_sync="0.0" delay_division="1.0" play_mode="0.0" palm_mute="0.0" fx_sat_drive="1.0" fx_sat_mix="0.0" fx_transient_attack="0.0" fx_transient_sustain="0.0" fx_transient_mix="0.0" fx_comp_threshold="-24.0" fx_comp_ratio="1.799999952316284" fx_comp_attack="12.0" fx_comp_release="160.0" fx_comp_makeup="0.0" fx_comp_mix="0.3499999940395355" fx_eq_low_freq="250.0" fx_eq_low_gain="0.0" fx_eq_mid_freq="760.0" fx_eq_mid_gain="-0.300000011920929" fx_eq_mid_q="1.0" fx_eq_high_freq="4600.0" fx_eq_high_gain="-0.4000000059604645" fx_chorus_rate="0.800000011920929" fx_chorus_depth="0.2800000011920929" fx_chorus_delay="7.0" fx_chorus_mix="0.0" fx_delay_time="300.0" fx_delay_feedback="0.0" fx_delay_mix="0.0" fx_reverb_size="0.3600000143051147" fx_reverb_damping="0.5" fx_reverb_width="0.6200000047683716" fx_reverb_mix="0.05499999970197678" fx_limiter_threshold="-0.800000011920929" fx_limiter_release="55.0" fx_cab_mix="0.0" fx_tab0_en="0" fx_tab1_en="0" fx_tab2_en="1" fx_reverb_en="1" fx_eq_en="1" fx_chorus_en="0" fx_delay_en="0" fx_limiter_en="1" fx_cabinet_en="0" mix_role="texture" family="hybrid" tags="guitar,generated,bright,ambient,e_guitar_pad,curated8" nominal_peak_db="-15.0">
+  <ModMatrix pbRange="2" lfo2Rate="2.0" lfo2Wave="0">
+    <Slot idx="0" src="0" dst="0" amt="0.0" />
+    <Slot idx="1" src="0" dst="0" amt="0.0" />
+    <Slot idx="2" src="0" dst="0" amt="0.0" />
+    <Slot idx="3" src="0" dst="0" amt="0.0" />
+    <Slot idx="4" src="0" dst="0" amt="0.0" />
+    <Slot idx="5" src="0" dst="0" amt="0.0" />
+    <Slot idx="6" src="0" dst="0" amt="0.0" />
+    <Slot idx="7" src="0" dst="0" amt="0.0" />
+  </ModMatrix>
+</GuitarPreset>

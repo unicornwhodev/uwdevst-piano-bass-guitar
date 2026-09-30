@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<GuitarPreset name="Crunch 01 Freewavesamples Guitar C4 062" format_version="3" synth_index="6" instrIndex="4" instrument_index="4" level="0.4199999868869781" tune="0.0" string_brightness="0.245" attack="0.002" decay="0.093" sustain="0.391" release="0.147" body_amount="0.013" drive="0.617" attack_brightness="0.5199999809265137" stereo_width="0.2199999988079071" pick_position="0.5199999809265137" low_pass_hz="2487.1" pan="0.0" output="1" quality_mode="0.0" delay_sync="0.0" delay_division="1.0" play_mode="0.0" palm_mute="0.0" fx_sat_drive="1.0" fx_sat_mix="0.0" fx_transient_attack="0.03999999910593033" fx_transient_sustain="0.0" fx_transient_mix="0.07999999821186066" fx_comp_threshold="-22.0" fx_comp_ratio="1.799999952316284" fx_comp_attack="12.0" fx_comp_release="160.0" fx_comp_makeup="0.0" fx_comp_mix="0.4199999868869781" fx_eq_low_freq="180.0" fx_eq_low_gain="0.0" fx_eq_mid_freq="1300.0" fx_eq_mid_gain="0.300000011920929" fx_eq_mid_q="1.0" fx_eq_high_freq="5500.0" fx_eq_high_gain="-0.699999988079071" fx_chorus_rate="0.800000011920929" fx_chorus_depth="0.1800000071525574" fx_chorus_delay="7.0" fx_chorus_mix="0.093" fx_delay_time="300.0" fx_delay_feedback="0.0" fx_delay_mix="0.0" fx_reverb_size="0.2800000011920929" fx_reverb_damping="0.5" fx_reverb_width="0.6200000047683716" fx_reverb_mix="0.123" fx_limiter_threshold="-0.800000011920929" fx_limiter_release="55.0" fx_cab_mix="0.2800000011920929" fx_tab0_en="0" fx_tab1_en="1" fx_tab2_en="1" fx_reverb_en="1" fx_eq_en="1" fx_chorus_en="0" fx_delay_en="0" fx_limiter_en="1" fx_cabinet_en="1" mix_role="rhythm" family="electric" tags="guitar,audio_analysis,crunch,curated8" nominal_peak_db="-13.5">
+  <ModMatrix pbRange="2" lfo2Rate="2.0" lfo2Wave="0">
+    <Slot idx="0" src="0" dst="0" amt="0.0" />
+    <Slot idx="1" src="0" dst="0" amt="0.0" />
+    <Slot idx="2" src="0" dst="0" amt="0.0" />
+    <Slot idx="3" src="0" dst="0" amt="0.0" />
+    <Slot idx="4" src="0" dst="0" amt="0.0" />
+    <Slot idx="5" src="0" dst="0" amt="0.0" />
+    <Slot idx="6" src="0" dst="0" amt="0.0" />
+    <Slot idx="7" src="0" dst="0" amt="0.0" />
+  </ModMatrix>
+</GuitarPreset>

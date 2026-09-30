@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<GuitarPreset name="Synth Guitar 08 User Request" format_version="3" synth_index="6" instrIndex="6" instrument_index="6" level="0.4399999976158142" tune="0.0" string_brightness="0.9" attack="0.5" decay="0.6" sustain="0.6" release="0.3799999952316284" body_amount="0.0" drive="0.1000000014901161" attack_brightness="0.5" stereo_width="0.75" pick_position="0.5199999809265137" low_pass_hz="6200.0" pan="0.0" output="2" quality_mode="0.0" delay_sync="0.0" delay_division="1.0" play_mode="0.0" palm_mute="0.0" fx_sat_drive="1.0" fx_sat_mix="0.0" fx_transient_attack="0.5" fx_transient_sustain="0.6" fx_transient_mix="0.0" fx_comp_threshold="-22.0" fx_comp_ratio="1.799999952316284" fx_comp_attack="0.5" fx_comp_release="160.0" fx_comp_makeup="0.0" fx_comp_mix="0.3499999940395355" fx_eq_low_freq="220.0" fx_eq_low_gain="0.0" fx_eq_mid_freq="950.0" fx_eq_mid_gain="0.0" fx_eq_mid_q="1.0" fx_eq_high_freq="5800.0" fx_eq_high_gain="0.0" fx_chorus_rate="0.800000011920929" fx_chorus_depth="0.2199999988079071" fx_chorus_delay="7.0" fx_chorus_mix="0.0" fx_delay_time="300.0" fx_delay_feedback="0.0" fx_delay_mix="0.0" fx_reverb_size="0.2800000011920929" fx_reverb_damping="0.5" fx_reverb_width="0.6200000047683716" fx_reverb_mix="0.03999999910593033" fx_limiter_threshold="-0.800000011920929" fx_limiter_release="55.0" fx_cab_mix="0.0" fx_tab0_en="0" fx_tab1_en="0" fx_tab2_en="1" fx_reverb_en="1" fx_eq_en="1" fx_chorus_en="0" fx_delay_en="0" fx_limiter_en="1" fx_cabinet_en="0" mix_role="texture" family="hybrid" tags="guitar,user_request,synth_guitar,curated8" nominal_peak_db="-15.0">
+  <ModMatrix pbRange="2" lfo2Rate="2.0" lfo2Wave="0">
+    <Slot idx="0" src="0" dst="0" amt="0.0" />
+    <Slot idx="1" src="0" dst="0" amt="0.0" />
+    <Slot idx="2" src="0" dst="0" amt="0.0" />
+    <Slot idx="3" src="0" dst="0" amt="0.0" />
+    <Slot idx="4" src="0" dst="0" amt="0.0" />
+    <Slot idx="5" src="0" dst="0" amt="0.0" />
+    <Slot idx="6" src="0" dst="0" amt="0.0" />
+    <Slot idx="7" src="0" dst="0" amt="0.0" />
+  </ModMatrix>
+</GuitarPreset>

@@ -1,0 +1,23 @@
+{
+  "collection": "UWdeVST Piano Bass Guitar",
+  "instruments": [
+    {
+      "id": "piano",
+      "models": 8,
+      "source": "sources/piano",
+      "release": "piano-v1.0.2"
+    },
+    {
+      "id": "bass",
+      "models": 9,
+      "source": "sources/bass",
+      "release": "bass-v1.0.2"
+    },
+    {
+      "id": "guitar",
+      "models": 9,
+      "source": "sources/guitar",
+      "release": "guitar-v1.0.2"
+    }
+  ]
+}

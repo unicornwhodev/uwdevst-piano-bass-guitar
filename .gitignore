@@ -1,0 +1,17 @@
+**/build*/
+**/dist/
+**/JUCE/
+**/_deps/
+**/.vs/
+**/__pycache__/
+**/.pytest_cache/
+*.log
+*.obj
+*.pdb
+*.ilk
+*.user
+*.exe
+*.dll
+*.vst3
+.DS_Store
+Thumbs.db
