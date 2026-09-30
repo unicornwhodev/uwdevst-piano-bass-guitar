@@ -1,19 +1,19 @@
-# Versions et disponibilité
+# Versions and availability
 
-Les téléchargements de la collection sont les distributions officielles **1.0.2**, conservées à l’identique. Leurs noms, tailles et sommes SHA-256 sont inchangés. Chaque archive conserve sa version et sa licence d’origine.
+The collection's downloads are the official **1.0.2** distributions, preserved unchanged. File names, sizes and SHA-256 checksums remain the same. Each archive retains its original version and licence.
 
-| Instrument | Téléchargements | Sources de la collection |
+| Instrument | Downloads | Collection sources |
 | --- | --- | --- |
-| [Piano](PIANO.md) | 1.0.2, antérieur aux dernières corrections de timbre | Candidat corrigé v3, incluant les corrections du Piano préparé, Rhodes, Wurlitzer et Clavinet. |
-| [Bass](BASS.md) | 1.0.2 | Sources et presets rangés dans le dossier Bass. |
-| [Guitar](GUITAR.md) | 1.0.2 | Sources et presets rangés dans le dossier Guitar. |
+| [Piano](PIANO.md) | 1.0.2, predating the latest tone corrections | Corrected candidate v3, including Prepared Piano, Rhodes, Wurlitzer and Clavinet changes. |
+| [Bass](BASS.md) | 1.0.2 | Sources and presets grouped in the Bass folder. |
+| [Guitar](GUITAR.md) | 1.0.2 | Sources and presets grouped in the Guitar folder. |
 
-## Piano corrigé
+## Corrected Piano sources
 
-Les corrections du Piano préparé, Rhodes, Wurlitzer et Clavinet ont été acceptées sur les auditions locales du **29 septembre 2026**. Les sources de cette collection intègrent le candidat v3. Les fichiers Piano 1.0.2 disponibles au téléchargement sont antérieurs à ces corrections ; un nouveau binaire les intégrant n’est pas encore publié.
+Prepared Piano, Rhodes, Wurlitzer and Clavinet corrections were accepted in local auditions on **29 September 2026**. This collection includes candidate v3 sources. The downloadable Piano 1.0.2 files predate these corrections; a new binary incorporating them has not yet been published.
 
-## Statut d’écoute
+## Listening status
 
-Bass et Guitar sont mis en avant à la suite de l’acceptation humaine des versions auditionnées. Pour Piano, l’acceptation des corrections ci-dessus concerne les sons et presets auditionnés. Ces décisions d’écoute ne valident pas automatiquement chaque preset, chaque hôte ou chaque plateforme.
+Bass and Guitar are featured following human listening approval of the auditioned versions. For Piano, acceptance of the corrections above concerns the auditioned sounds and presets. These listening decisions do not automatically validate every preset, host or platform.
 
-[Téléchargements](TELECHARGEMENTS.md) · [Sources](../sources/README.md) · [Accueil](../README.md)
+[Downloads](DOWNLOADS.md) · [Sources](../sources/README.md) · [Collection home](../README.md)

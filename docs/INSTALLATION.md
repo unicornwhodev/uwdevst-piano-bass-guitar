@@ -1,24 +1,24 @@
-# Installer et jouer
+# Install and play
 
-[Piano](PIANO.md) · [Bass](BASS.md) · [Guitar](GUITAR.md) · [Téléchargements](TELECHARGEMENTS.md)
+[Piano](PIANO.md) · [Bass](BASS.md) · [Guitar](GUITAR.md) · [Downloads](DOWNLOADS.md)
 
-Choisissez l’archive de votre système, puis installez l’application autonome, le VST3 ou les deux.
+Choose the archive for your system, then install the Standalone application, VST3 plug-in or both.
 
 ## Windows x64
 
-1. Télécharger l’archive de l’instrument et l’extraire dans un dossier.
-2. Ouvrir l’application autonome incluse pour jouer sans logiciel de musique.
-3. Pour le VST3, copier le dossier `.vst3` complet dans `C:\Program Files\Common Files\VST3` et relancer l’analyse des plugins de votre logiciel de musique.
-4. Ajouter l’instrument sur une piste MIDI, choisir un preset et régler la sortie audio ainsi que le clavier MIDI.
+1. Download the instrument archive and extract it into a folder.
+2. Open the included Standalone application to play without a DAW.
+3. For VST3, copy the complete `.vst3` bundle into `C:\Program Files\Common Files\VST3`, then rescan plug-ins in your music software.
+4. Add the instrument to a MIDI track, choose a preset and configure your audio output and MIDI keyboard.
 
-Conserver l’arborescence du bundle VST3. Les fichiers d’installation et les instructions contenus dans l’archive restent applicables à cette distribution.
+Keep the VST3 bundle structure intact. Follow any installation files and instructions included with that distribution.
 
 ## Linux x86_64
 
-Extraire l’archive `.tar.gz`, placer le bundle VST3 dans `~/.vst3` et lancer l’application autonome incluse. Lire les instructions de dépendances livrées dans l’archive.
+Extract the `.tar.gz` archive, place the VST3 bundle in `~/.vst3` and launch the included Standalone application. Read the dependency instructions included in the archive.
 
 ## macOS
 
-Extraire le builder `.tar.gz` sur un Mac et suivre le README ainsi que `BUILD_MAC.command` inclus. Une compilation et les outils Xcode sont nécessaires. Ces builders ne sont pas des applications macOS déjà compilées ou notarisées.
+Extract the builder `.tar.gz` on a Mac and follow its README and `BUILD_MAC.command`. Compilation and Xcode tools are required. These builders are not precompiled or notarized macOS applications.
 
-[Téléchargements](TELECHARGEMENTS.md) · [Versions](VERSIONS.md) · [Licence et support](LICENCE.md) · [Accueil](../README.md)
+[Downloads](DOWNLOADS.md) · [Versions](VERSIONS.md) · [Licence and support](LICENSING.md) · [Collection home](../README.md)

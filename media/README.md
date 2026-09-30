@@ -1,5 +1,5 @@
-# Visuels de la collection
+# Collection artwork
 
-Les trois illustrations de produit reprennent les visuels UWdeVST Piano, Bass et Guitar précédemment publiés. La bannière commune les réunit dans le même style noir, ivoire et or que la collection Musique FX.
+The three product illustrations reuse the previously published UWdeVST Piano, Bass and Guitar artwork. The shared banner brings them together in the black, ivory and gold style of Musique FX.
 
-[Découvrir la collection](../README.md)
+[Explore the collection](../README.md)

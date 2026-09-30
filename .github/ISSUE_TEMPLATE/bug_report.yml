@@ -1,6 +1,6 @@
-name: Signaler un problème
-description: Un problème avec Piano, Bass ou Guitar.
-title: "[Instrument] Description du problème"
+name: Report a problem
+description: A problem with Piano, Bass or Guitar.
+title: "[Instrument] Brief description"
 body:
   - type: dropdown
     id: instrument
@@ -16,20 +16,20 @@ body:
     id: version
     attributes:
       label: Version
-      placeholder: "Par exemple : 1.0.2"
+      placeholder: "For example: 1.0.2"
     validations:
       required: true
   - type: input
     id: environment
     attributes:
-      label: Système et logiciel de musique
-      placeholder: "Par exemple : Windows 11, Reaper, VST3"
+      label: Operating system and music software
+      placeholder: "For example: Windows 11, Reaper, VST3"
     validations:
       required: true
   - type: textarea
     id: problem
     attributes:
-      label: Description et étapes de reproduction
-      description: Précisez le modèle, le preset, le résultat attendu et le résultat observé.
+      label: Description and steps to reproduce
+      description: Include the model, preset, expected result and observed result.
     validations:
       required: true

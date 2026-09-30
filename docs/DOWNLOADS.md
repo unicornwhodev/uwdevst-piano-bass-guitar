@@ -1,8 +1,8 @@
-# Téléchargements
+# Downloads
 
-**Choisissez votre instrument et votre plateforme.** Chaque instrument possède sa propre release. Les archives Windows et Linux contiennent le VST3 et l’application autonome.
+**Choose your instrument and platform.** Each instrument has its own release. Windows and Linux archives include the VST3 plug-in and Standalone application.
 
-## Windows et Linux
+## Windows and Linux
 
 | Instrument | Version | Windows x64 | Linux x86_64 | Release |
 | --- | --- | --- | --- | --- |
@@ -10,24 +10,24 @@
 | [Bass](BASS.md) | 1.0.2 | [ZIP](https://github.com/unicornwhodev/uwdevst-piano-bass-guitar/releases/download/bass-v1.0.2/synth-bass_1.0.2_Windows_x64.zip) | [TAR.GZ](https://github.com/unicornwhodev/uwdevst-piano-bass-guitar/releases/download/bass-v1.0.2/UWdeVST_Bass_1.0.2_Linux_x86_64.tar.gz) | [Bass 1.0.2](https://github.com/unicornwhodev/uwdevst-piano-bass-guitar/releases/tag/bass-v1.0.2) |
 | [Guitar](GUITAR.md) | 1.0.2 | [ZIP](https://github.com/unicornwhodev/uwdevst-piano-bass-guitar/releases/download/guitar-v1.0.2/synth-guitar_1.0.2_Windows_x64.zip) | [TAR.GZ](https://github.com/unicornwhodev/uwdevst-piano-bass-guitar/releases/download/guitar-v1.0.2/UWdeVST_Guitar_1.0.2_Linux_x86_64.tar.gz) | [Guitar 1.0.2](https://github.com/unicornwhodev/uwdevst-piano-bass-guitar/releases/tag/guitar-v1.0.2) |
 
-**Piano :** les fichiers 1.0.2 précèdent les dernières corrections de timbre présentes dans les sources. [Versions disponibles](VERSIONS.md).
+**Piano:** the 1.0.2 files predate the latest tone corrections included in the sources. [Available versions](VERSIONS.md).
 
 ## macOS
 
-Les archives macOS sont des **builders à compiler sur un Mac**, avec leurs sources, instructions et commande de compilation. Les outils Xcode sont nécessaires. Ces fichiers ne sont pas des applications déjà compilées ou notarisées.
+The macOS archives are **source builders to compile on a Mac**, with sources, instructions and a build command. Xcode tools are required. These are not precompiled or notarized applications.
 
-| Instrument | Builder macOS 1.0.2 |
+| Instrument | macOS 1.0.2 builder |
 | --- | --- |
 | Piano | [TAR.GZ](https://github.com/unicornwhodev/uwdevst-piano-bass-guitar/releases/download/piano-v1.0.2/UWdeVST_Piano_1.0.2_macOS_Builder.tar.gz) |
 | Bass | [TAR.GZ](https://github.com/unicornwhodev/uwdevst-piano-bass-guitar/releases/download/bass-v1.0.2/UWdeVST_Bass_1.0.2_macOS_Builder.tar.gz) |
 | Guitar | [TAR.GZ](https://github.com/unicornwhodev/uwdevst-piano-bass-guitar/releases/download/guitar-v1.0.2/UWdeVST_Guitar_1.0.2_macOS_Builder.tar.gz) |
 
-## Vérifier un fichier
+## Verify a download
 
-Les distributions officielles 1.0.2 sont conservées à l’identique. Les [sommes SHA-256](SHA256SUMS.txt) permettent de contrôler un téléchargement :
+The official 1.0.2 distributions are preserved unchanged. Use the [SHA-256 checksums](SHA256SUMS.txt) to verify a download:
 
 ```powershell
-Get-FileHash -Algorithm SHA256 '.\nom-du-fichier.zip'
+Get-FileHash -Algorithm SHA256 '.\downloaded-file.zip'
 ```
 
-[Installation](INSTALLATION.md) · [Les instruments](INSTRUMENTS.md) · [Licence](LICENCE.md) · [Accueil](../README.md)
+[Installation](INSTALLATION.md) · [Instruments](INSTRUMENTS.md) · [Licence](LICENSING.md) · [Collection home](../README.md)
