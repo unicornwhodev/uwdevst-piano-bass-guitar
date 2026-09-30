@@ -1,25 +1,51 @@
-<p align="center"><img src="assets/collection.svg" alt="UWdeVST Piano, Bass et Guitar" width="1080" /></p>
+<p align="center"><img src="media/instruments-banner.png" width="1100" alt="La collection UWdeVST : clavier Piano à lampes, synthétiseur Bass et guitare électrique, en noir et or" /></p>
 
-# UWdeVST — Piano, Bass & Guitar
+<h1 align="center">UWdeVST · Piano, Bass &amp; Guitar</h1>
 
-Trois synthétiseurs pour composer : claviers acoustiques et électriques, lignes de basse, guitares et textures de cordes. Le son est produit par synthèse ; aucune bibliothèque d’échantillons à installer.
+<p align="center"><strong>Des touches. Des graves. Des cordes. Vos idées.</strong><br />Trois instruments pour composer, trouver une couleur et donner vie à un morceau.</p>
 
-**[Télécharger](docs/TELECHARGEMENTS.md) · [Installer](docs/INSTALLATION.md) · [Découvrir les instruments](docs/INSTRUMENTS.md) · [English](docs/en/README.md)**
+<p align="center"><a href="docs/TELECHARGEMENTS.md">Télécharger</a> · <a href="docs/INSTRUMENTS.md">Les instruments</a> · <a href="docs/INSTALLATION.md">Installation</a> · <a href="https://github.com/unicornwhodev/uwdevst-piano-bass-guitar/issues/new/choose">Support</a> · <a href="docs/en/README.md">English</a></p>
 
-| Instrument | Couleurs musicales | Accès |
-| --- | --- | --- |
-| **Bass** | 9 modèles, des graves acoustiques aux basses 808 et électroniques | **[Découvrir Bass](docs/BASS.md)** |
-| **Guitar** | 9 modèles : acoustique, électrique, électronique | **[Découvrir Guitar](docs/GUITAR.md)** |
-| **Piano** | 8 claviers, du piano acoustique au Préparé, Rhodes, Wurlitzer et Clavinet | **[Découvrir Piano](docs/PIANO.md)** |
+**Windows x64 · Linux x86_64 · VST3 · Application autonome**
 
-Bass et Guitar sont les instruments mis en avant, validés sur les versions auditionnées. Pour Piano, les corrections Préparé, Rhodes, Wurlitzer et Clavinet ont été acceptées sur les auditions locales du 29 septembre 2026. Cette écoute porte sur les sons et presets auditionnés.
+Des claviers acoustiques et électriques, des basses 808 et synthétiques, des guitares et des textures de cordes : chaque instrument possède ses propres modèles, presets et réglages. Le son est produit par synthèse, sans bibliothèque d’échantillons à installer.
 
-Les téléchargements existants **1.0.2** sont conservés à l’identique. Le Piano 1.0.2 précède ces corrections ; les sources Piano de cette collection intègrent le candidat corrigé. [Versions et disponibilité](docs/TELECHARGEMENTS.md).
+## Découvrir les instruments
 
-**VST3 + application autonome** sur Windows x64 et Linux x86_64 pour les distributions 1.0.2. Les archives macOS sont des **builders à compiler**, avec les instructions incluses.
+<table>
+<tr>
+<td align="center" width="33%"><a href="docs/PIANO.md"><img src="media/artwork/piano.jpg" width="280" alt="UWdeVST Piano — Keys into ideas." /><br /><strong>Piano</strong></a><br />8 claviers<br />Acoustique · Préparé · Électrique<br /><a href="docs/PIANO.md">Découvrir</a> · <a href="https://github.com/unicornwhodev/uwdevst-piano-bass-guitar/releases/tag/piano-v1.0.2">Télécharger</a></td>
+<td align="center" width="33%"><a href="docs/BASS.md"><img src="media/artwork/bass.jpg" width="280" alt="UWdeVST Bass — Everything starts down low." /><br /><strong>Bass</strong></a><br />9 modèles<br />Acoustique · 808 · Synth<br /><a href="docs/BASS.md">Découvrir</a> · <a href="https://github.com/unicornwhodev/uwdevst-piano-bass-guitar/releases/tag/bass-v1.0.2">Télécharger</a></td>
+<td align="center" width="33%"><a href="docs/GUITAR.md"><img src="media/artwork/guitar.jpg" width="280" alt="UWdeVST Guitar — Strings, another way." /><br /><strong>Guitar</strong></a><br />9 modèles<br />Acoustique · Électrique · Électronique<br /><a href="docs/GUITAR.md">Découvrir</a> · <a href="https://github.com/unicornwhodev/uwdevst-piano-bass-guitar/releases/tag/guitar-v1.0.2">Télécharger</a></td>
+</tr>
+</table>
 
-Pour jouer, commencer par les téléchargements et les guides. Les [sources](sources/README.md) sont rangées par instrument.
+## Choisir son téléchargement
 
-Licence propriétaire : [conditions incluses](LICENSE.md). Pour toute question, utiliser les [issues de ce dépôt](https://github.com/unicornwhodev/uwdevst-piano-bass-guitar/issues).
+Chaque archive contient le VST3 et l’application autonome de l’instrument. Choisissez votre plateforme, extrayez les fichiers et suivez le guide d’installation.
+
+| Instrument | Sa couleur | Version | Windows x64 | Linux x86_64 |
+| --- | --- | --- | --- | --- |
+| [Piano](docs/PIANO.md) | Claviers acoustiques, préparés et électriques pour les accords, mélodies et rythmes. | 1.0.2 | [ZIP](https://github.com/unicornwhodev/uwdevst-piano-bass-guitar/releases/download/piano-v1.0.2/synth-piano_1.0.2_Windows_x64.zip) | [TAR.GZ](https://github.com/unicornwhodev/uwdevst-piano-bass-guitar/releases/download/piano-v1.0.2/UWdeVST_Piano_1.0.2_Linux_x86_64.tar.gz) |
+| [Bass](docs/BASS.md) | Du grave acoustique aux 808 et aux basses de synthèse, pour donner une assise au morceau. | 1.0.2 | [ZIP](https://github.com/unicornwhodev/uwdevst-piano-bass-guitar/releases/download/bass-v1.0.2/synth-bass_1.0.2_Windows_x64.zip) | [TAR.GZ](https://github.com/unicornwhodev/uwdevst-piano-bass-guitar/releases/download/bass-v1.0.2/UWdeVST_Bass_1.0.2_Linux_x86_64.tar.gz) |
+| [Guitar](docs/GUITAR.md) | Cordes pincées, couleurs électriques et nappes pour les riffs, accompagnements et textures. | 1.0.2 | [ZIP](https://github.com/unicornwhodev/uwdevst-piano-bass-guitar/releases/download/guitar-v1.0.2/synth-guitar_1.0.2_Windows_x64.zip) | [TAR.GZ](https://github.com/unicornwhodev/uwdevst-piano-bass-guitar/releases/download/guitar-v1.0.2/UWdeVST_Guitar_1.0.2_Linux_x86_64.tar.gz) |
+
+**Piano :** les fichiers 1.0.2 précèdent les dernières corrections de timbre présentes dans les sources. [Consulter les versions disponibles](docs/VERSIONS.md).
+
+Les téléchargements **macOS** sont des builders à compiler sur un Mac. [Choisir un builder](docs/TELECHARGEMENTS.md#macos).
+
+[Guide d’installation](docs/INSTALLATION.md) · [Toutes les releases](https://github.com/unicornwhodev/uwdevst-piano-bass-guitar/releases) · [Sommes SHA-256](docs/SHA256SUMS.txt)
+
+## Composer avec la collection
+
+Choisissez un preset, jouez une phrase et ajustez le son à sa place dans le morceau. Chaque instrument fonctionne indépendamment : un clavier pour l’harmonie, une basse pour la fondation, une guitare pour le rythme ou la texture.
+
+Pour travailler la couleur, l’espace et le mouvement, retrouvez les onze effets de la [collection UWdeVST · Musique FX](https://github.com/unicornwhodev/uwdevst-fx).
+
+## Licence et support
+
+La collection utilise la [licence propriétaire UWdeVST incluse](LICENSE.md). La licence livrée avec chaque distribution s’applique à cette distribution. [Informations de licence](docs/LICENCE.md) · [Sources par instrument](sources/README.md).
+
+Pour obtenir de l’aide, [ouvrir un signalement](https://github.com/unicornwhodev/uwdevst-piano-bass-guitar/issues/new/choose) en précisant l’instrument, la version et le logiciel utilisé, ou [contacter Unicorn Who Dev](mailto:unicornwhodev@gmail.com).
 
 © 2026 Unicorn Who Dev / Charli Billabert.

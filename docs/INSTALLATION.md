@@ -1,5 +1,9 @@
 # Installer et jouer
 
+[Piano](PIANO.md) · [Bass](BASS.md) · [Guitar](GUITAR.md) · [Téléchargements](TELECHARGEMENTS.md)
+
+Choisissez l’archive de votre système, puis installez l’application autonome, le VST3 ou les deux.
+
 ## Windows x64
 
 1. Télécharger l’archive de l’instrument et l’extraire dans un dossier.
@@ -17,4 +21,4 @@ Extraire l’archive `.tar.gz`, placer le bundle VST3 dans `~/.vst3` et lancer l
 
 Extraire le builder `.tar.gz` sur un Mac et suivre le README ainsi que `BUILD_MAC.command` inclus. Une compilation et les outils Xcode sont nécessaires. Ces builders ne sont pas des applications macOS déjà compilées ou notarisées.
 
-[Téléchargements](TELECHARGEMENTS.md) · [Choisir un instrument](INSTRUMENTS.md) · [Accueil](../README.md)
+[Téléchargements](TELECHARGEMENTS.md) · [Versions](VERSIONS.md) · [Licence et support](LICENCE.md) · [Accueil](../README.md)
